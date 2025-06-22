@@ -1,0 +1,6 @@
+apimServiceName: fn-apim-eastus
+namedValues:
+loggers:
+diagnostics:
+backends:
+apis:
