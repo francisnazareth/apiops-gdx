@@ -1,0 +1,6 @@
+apimServiceName: apim-dev-qc-01
+namedValues:
+loggers:
+diagnostics:
+backends:
+apis:
